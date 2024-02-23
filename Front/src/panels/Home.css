@@ -1,0 +1,12 @@
+label {
+  text-align: center;
+}
+
+.homechoices {
+  display: flex;
+  height: 5em;
+}
+
+.rightchoice {
+  margin-left: 50px;
+}

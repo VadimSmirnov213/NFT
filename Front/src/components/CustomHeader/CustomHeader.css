@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+label {display:block; width:x; height:y; text-align:center}

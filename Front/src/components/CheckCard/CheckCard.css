@@ -1,0 +1,16 @@
+.fathercard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  height: 150px;
+}
+
+.topright {
+  display: flex;
+  flex-direction: column;
+}
+
+.topright label {
+  text-align: end;
+}
