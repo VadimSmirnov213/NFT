@@ -38,7 +38,7 @@ Vercel (Zeit) deploy
 Firstly, you have to create Vercel account and connect it with your GitHub profile on [vercel.com](https://vercel.com)
 
 #### `--surge <surge-domain>`
-Surge deploy
+Surge deploy 
 
 Firstly, you have to create Surge account and Surge-domain on [surge.sh](https://surge.sh)
 
@@ -55,5 +55,7 @@ Go to created folder and run:
 [npm]: https://img.shields.io/npm/v/@vkontakte/create-vk-mini-app.svg
 [npm-url]: https://npmjs.com/package/@vkontakte/create-vk-mini-app
 
+
 [deps]: https://img.shields.io/david/vkcom/create-vk-mini-app.svg
 [deps-url]: https://david-dm.org/vkcom/create-vk-mini-app
+
